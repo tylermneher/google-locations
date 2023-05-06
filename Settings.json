@@ -1,0 +1,29 @@
+{
+  "createdTime": "2014-08-03T20:26:35.797Z",
+  "modifiedTime": "2022-07-19T18:12:51.157Z",
+  "historyEnabled": true,
+  "historyDeletionTime": "2022-10-16T11:48:04.448Z",
+  "deviceSettings": [
+    {
+      "deviceTag": -1310847974,
+      "reportingEnabled": true,
+      "legalCountryCode": "us",
+      "devicePrettyName": "iPhone",
+      "platformType": "IOS",
+      "deviceCreationTime": "2021-11-03T15:02:01.790Z",
+      "latestLocationReportingSettingChange": {
+        "reportingEnabledModificationTime": "2021-11-03T15:02:01.790Z"
+      },
+      "iosVersion": "16.4.1",
+      "deviceSpec": {
+        "device": "iPhone14,3"
+      }
+    }
+  ],
+  "latestLocationHistorySettingChange": {
+    "historyEnabledModificationTime": "2019-02-19T00:32:38.445Z"
+  },
+  "retentionWindowDays": 2147483647,
+  "hasReportedLocations": true,
+  "hasSetRetention": true
+}
