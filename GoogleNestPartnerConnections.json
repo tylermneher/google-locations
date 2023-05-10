@@ -1,78 +1,88 @@
 {
-    "Google Nest Partner Connections Data": [
-        {"structures": [
+  "Google Nest Partner Connections Data": [
+    {
+      "structures": [
+        {
+          "partners": [
             {
-                        "partners": [
-                                    {
-                                                "partnerName": "Samsung SmartThings",
-                                                "connectionStatus": "Active",
-                                                "connectedBy": "tyler.neher@gmail.com"
-                                    },
-                                    {
-                                                "partnerName": "nds",
-                                                "connectionStatus": "Active",
-                                                "connectedBy": "tyler.neher@gmail.com",
-                                                "devicePermissions": [{
-                                                            "deviceType": "Camera",
-                                                            "permissions": [
-                                                                        "Camera's motion, sound, and person events",
-                                                                        "Camera event image download",
-                                                                        "View camera's live stream"
-                                                            ],
-                                                            "deviceId": "e29db931-b8cb-471b-ac71-01b84e58fa3f",
-                                                            "deviceName": "Shed"
-                                                }],
-                                                "structurePermissions": [{
-                                                            "structureName": "Seaside",
-                                                            "permissions": ["Structure read"]
-                                                }]
-                                    }
-                        ],
-                        "structureName": "Seaside",
-                        "structureId": "1358b11b-8f79-45ac-8fe5-aab8f160c79b"
+              "partnerName": "Samsung SmartThings",
+              "connectionStatus": "Active",
+              "connectedBy": "tyler.neher@gmail.com"
             },
             {
-                        "partners": [
-                                    {
-                                                "partnerName": "Samsung SmartThings",
-                                                "connectionStatus": "Active",
-                                                "connectedBy": "tyler.neher@gmail.com"
-                                    },
-                                    {
-                                                "partnerName": "nds",
-                                                "connectionStatus": "Active",
-                                                "connectedBy": "tyler.neher@gmail.com"
-                                    }
-                        ],
-                        "structureName": "Raleigh",
-                        "structureId": "c4044392-6fc6-4d18-b4b5-e55ab0f286b1"
-            },
-            {
-                        "partners": [
-                                    {
-                                                "partnerName": "Samsung SmartThings",
-                                                "connectionStatus": "Active",
-                                                "connectedBy": "tyler.neher@gmail.com",
-                                                "devicePermissions": [{
-                                                            "deviceType": "Thermostat",
-                                                            "permissions": ["Thermostat access and control"],
-                                                            "deviceId": "20c42adc-bdd1-465c-b0d9-5ad1034c304d",
-                                                            "deviceName": "Living Room"
-                                                }],
-                                                "structurePermissions": [{
-                                                            "structureName": "secretariat",
-                                                            "permissions": ["Structure read"]
-                                                }]
-                                    },
-                                    {
-                                                "partnerName": "nds",
-                                                "connectionStatus": "Active",
-                                                "connectedBy": "tyler.neher@gmail.com"
-                                    }
-                        ],
-                        "structureName": "secretariat",
-                        "structureId": "e2ce35bd-31b0-4ab9-a4b3-6adb507964a3"
+              "partnerName": "nds",
+              "connectionStatus": "Active",
+              "connectedBy": "tyler.neher@gmail.com",
+              "devicePermissions": [
+                {
+                  "deviceType": "Camera",
+                  "permissions": [
+                    "Camera's motion, sound, and person events",
+                    "Camera event image download",
+                    "View camera's live stream"
+                  ],
+                  "deviceId": "e29db931-b8cb-471b-ac71-01b84e58fa3f",
+                  "deviceName": "Shed"
+                }
+              ],
+              "structurePermissions": [
+                {
+                  "structureName": "Seaside",
+                  "permissions": ["Structure read"]
+                }
+              ]
             }
-]}
-    ]
+          ],
+          "structureName": "Seaside",
+          "structureId": "1358b11b-8f79-45ac-8fe5-aab8f160c79b"
+        },
+        {
+          "partners": [
+            {
+              "partnerName": "Samsung SmartThings",
+              "connectionStatus": "Active",
+              "connectedBy": "tyler.neher@gmail.com"
+            },
+            {
+              "partnerName": "nds",
+              "connectionStatus": "Active",
+              "connectedBy": "tyler.neher@gmail.com"
+            }
+          ],
+          "structureName": "Raleigh",
+          "structureId": "c4044392-6fc6-4d18-b4b5-e55ab0f286b1"
+        },
+        {
+          "partners": [
+            {
+              "partnerName": "Samsung SmartThings",
+              "connectionStatus": "Active",
+              "connectedBy": "tyler.neher@gmail.com",
+              "devicePermissions": [
+                {
+                  "deviceType": "Thermostat",
+                  "permissions": ["Thermostat access and control"],
+                  "deviceId": "20c42adc-bdd1-465c-b0d9-5ad1034c304d",
+                  "deviceName": "Living Room"
+                }
+              ],
+              "structurePermissions": [
+                {
+                  "structureName": "secretariat",
+                  "permissions": ["Structure read"]
+                }
+              ]
+            },
+            {
+              "partnerName": "nds",
+              "connectionStatus": "Active",
+              "connectedBy": "tyler.neher@gmail.com"
+            }
+          ],
+          "structureName": "secretariat",
+          "structureId": "e2ce35bd-31b0-4ab9-a4b3-6adb507964a3"
+        }
+      ]
+    }
+  ]
 }
