@@ -14,7 +14,7 @@ cycler==0.12.1
 debugpy==1.8.0
 decorator==5.1.1
 executing==2.0.0
-fiona==1.9.5
+fiona==1.10.0
 folium==0.14.0
 fonttools==4.43.1
 geodatasets==2023.3.0
