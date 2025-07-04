@@ -19,7 +19,7 @@ folium==0.14.0
 fonttools==4.43.1
 geodatasets==2023.3.0
 geopandas==0.14.0
-idna==3.4
+idna==3.7
 ipykernel==6.25.2
 ipython==8.16.1
 jedi==0.19.1
